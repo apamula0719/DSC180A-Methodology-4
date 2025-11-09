@@ -3,7 +3,7 @@
 ## B07, Nathan Hui
 
 **What is the most interesting topic covered in your domain this quarter?**
-The most interesting topic covered in my domain this quarter is 
+The most interesting topic covered in my domain this quarter is the different techniques that can be used to analyze a model's predictions on image data.
 
 **Describe a potential investigation you would like to pursue for your Quarter 2 Project.**
 A potential investigation I'd like to pursue for the Quarter 2 Project is deploying an application to automatically detect anomalies in real time for ALERTCalifornia cameras.
